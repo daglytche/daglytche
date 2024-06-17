@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @daglytche
-- 👀 I’m interested in inecraft, computer science
-- 🌱 I’m currently learning c++, 
-- 💞️ I’m looking to collaborate on a minecraft mod, a smart bot that can learn
-- 📫 How to reach me: the only way you can reach me is talking using github.
+- 👀 I’m interested in computer science, machine learning, music, etc
+- 🌱 I’m currently learning python, javascript, 
+- 💞️ I am down to colab on anything really tht im intrested in
+- 📫 How to reach me: discord at #ihaveahiv .
 <!---
 daglytche/daglytche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
